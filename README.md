@@ -83,12 +83,10 @@ The network data dictionary is available in `Networks/FAF5 Network Data Dictiona
 
 ```
 FAF5/
-├── FAF5_AequilibraE_Analysis.ipynb  # Main analysis notebook
-├── aequilibrae_FAF5.py              # Python script version
+├── FAF5_AequilibraE_Analysis.ipynb   # Main analysis notebook
 ├── requirements.txt                  # Python dependencies
 ├── Networks/                         # FAF5 network data
 │   ├── Geodatabase Format/
-│   └── TransCAD Format/
 ├── shortest_paths_map.html          # Interactive shortest paths map
 ├── route_choice_sets_map.html       # Interactive route choice sets map
 └── README.md                        # This file
